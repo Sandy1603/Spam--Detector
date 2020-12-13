@@ -1,3 +1,11 @@
 This is NLP Model, Spam detector Classifier
 Everyone knows MultinomialNB works well on text data, Here introducing PassiveAggressiveClassifier, this is one of the linear model  
 this also works good on text data, code avalable in Spam-Classifier.ipynb 
+
+Application Link :- https://spa-det.herokuapp.com/
+
+
+Summery :
+1. Consider Raw data and apply Data Preprocessing, Check the code in  Spam-Classifier.ipynb
+2. Application Running in app.py file 
+3. This is Flask based Framework
