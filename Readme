@@ -1,0 +1,3 @@
+This is NLP Model, Spam detector Classifier
+Everyone knows MultinomialNB works well on text data, Here introducing PassiveAggressiveClassifier, this is one of the linear model  
+this also works good on text data, code avalable in Spam-Classifier.ipynb 
